@@ -27,7 +27,8 @@
 
 
 ## 编译脚本
-编译脚本、JNI代码整理后上传
+
+* [编译脚本](preview/docs/build.md)
 
 # 特色功能
 
@@ -41,7 +42,7 @@
 
 * **支持开启/关闭 debug 模式**
 
-* **支持硬件加速，使编解码处理更快**
+* **支持硬件加速，使编解码处理更快(已开启MediaCodec)**
 
 * **代码封装成SDK的方式，方便依赖使用**
 
@@ -125,7 +126,8 @@ RxFFmpegInvoke.getInstance().exit();
 
 ```
 # 常用命令
-* Hello World 
+
+* [常用命令汇总](preview/docs/cmd.md)
 
 # 下载体验
 
